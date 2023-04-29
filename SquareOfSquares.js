@@ -1,0 +1,1 @@
+const isSquare = (n) => n**0.5 === Math.floor(n**0.5);
